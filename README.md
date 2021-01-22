@@ -1,11 +1,12 @@
 # Deep-Learning-Paper-with-Codes
 
-### Deep Learning Paper with Codes : 딥러닝 논문과 코드
-- 딥러닝 논문들을 리뷰하고 실제 코드 실습까지 할 수 있는 저장소입니다.
+### Deep Learning Paper with Codes 
+- This is repository for deep learning paper reviews as well as codes to practice.
 
 #### Image Classification
 
 ImageNet Classification with Deep Convolutional Neural Networks
+
 Original Paper Link / Paper Review / Code Pratice
 
 Very Deep Convolutional Networks for Large-Scale Image Recognition
