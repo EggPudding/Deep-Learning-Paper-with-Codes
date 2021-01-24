@@ -1,4 +1,4 @@
-## Deep-Learning-Paper-with-Codes
+# Deep-Learning-Paper-with-Codes
 
 * This is repository for those who wants to practice deep learning papers.
 * Code practices are included with detailed description.
@@ -7,8 +7,8 @@
 ## Followings are papers which are or will be reviewed with codes.
 ### Image Classification
 ---
-* ImageNet Classification with Deep Convolutional Neural Networks
-** Original Paper Link / Paper Review / Code Pratice
+> * ImageNet Classification with Deep Convolutional Neural Networks
+>   * [Original Paper](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) / Paper Review / Code Pratice
 
 Very Deep Convolutional Networks for Large-Scale Image Recognition
 
