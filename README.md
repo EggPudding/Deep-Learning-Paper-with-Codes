@@ -1,6 +1,5 @@
-# Deep-Learning-Paper-with-Codes
+## Deep-Learning-Paper-with-Codes
 
-## Deep Learning Paper with Codes 
 * This is repository for those who wants to practice deep learning papers.
 * Code practices are included with detailed description.
 * Comments on [ISSUES](https://github.com/EggPudding/Deep-Learning-Practice-with-Codes/issues) if you have any question
