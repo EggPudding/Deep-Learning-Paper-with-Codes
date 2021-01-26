@@ -5,7 +5,7 @@
 * Comments on [**Issues**](https://github.com/EggPudding/Deep-Learning-Practice-with-Codes/issues) if you have any question
 
 ## Followings are papers which are or will be reviewed with codes.
-### Image Classification
+### [Computer Vision] Image Classification
 * ImageNet Classification with Deep Convolutional Neural Networks (NIPS 2012)
   * [Original Paper Link](https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html) / [Paper Review] / [Code Pratice]
 
@@ -30,11 +30,13 @@
 * Searching for MobileNetV3 (ICCV 2019)
   * [Original Paper Link] / [Paper Review] / [Code Practice]
   
-### Sementic Segmentation
+### [Computer Vision] Attention Bottleneck
+  
+### [Computer Vision] Sementic Segmentation
 
-### Object Detection
+### [Computer Vision] Object Detection
 
-### Pose Estimation
+### [Computer Vision] Pose Estimation
 
 ### Natural Language Processing
 
