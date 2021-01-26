@@ -21,7 +21,7 @@
 * Densely Connected Convolutional Networks (CVPR 2017)
   * [Original Paper Link](https://arxiv.org/abs/1608.06993) / [Paper Review] / [Code Practice]
   
-* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications
+* MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017)
   * [Original Paper Link] / [Paper Review] / [Code Practice]
   
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks (CVPR 2018)
