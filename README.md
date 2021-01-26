@@ -30,13 +30,13 @@
 * Searching for MobileNetV3 (ICCV 2019)
   * [Original Paper Link] / [Paper Review] / [Code Practice]
   
-#### Sementic Segmentation
+### Sementic Segmentation
 
-#### Object Detection
+### Object Detection
 
-#### Pose Estimation
+### Pose Estimation
 
-#### Natural Language Processing
+### Natural Language Processing
 
 * Efficient Estimation of Word Representations in Vector Space (ICLR 2013)
   * [Original Paper Link](https://arxiv.org/abs/1301.3781) / [Paper Review] / [Code Practi
@@ -47,12 +47,12 @@
 * Attention is All You Need (NIPS 2017)
   * [Original Paper Link](https://arxiv.org/abs/1706.03762) / [Paper Review] / [Code Practice]
 
-#### Neural Architecture Search
+### Neural Architecture Search
 
 * Neural Architecture Search with Reinforcement Learning
   * [Original Paper Link] / [Paper Review] / [Code Practice]
   
-#### Reinforcement Learning
+### Reinforcement Learning
 
-#### 
+### Generative Adversarial Network
 
