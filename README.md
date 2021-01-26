@@ -38,6 +38,9 @@
 
 #### Natural Language Processing
 
+* Efficient Estimation of Word Representations in Vector Space (ICLR 2013)
+  * [Original Paper Link](https://arxiv.org/abs/1301.3781) / [Paper Review] / [Code Practi
+
 * Sequence to Sequence Learning with Neural Networks (NIPS 2014)
   * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review] / [Code Practice]
   
